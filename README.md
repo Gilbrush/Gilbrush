@@ -1,5 +1,4 @@
 ## Hi there 👋
-https://github.com/Gilbrush/Gilbrush/blob/main/icons/activity.gif
 
 <h1 align="center">Hi <img src="https://github.com/YourUsername/YourUsername/blob/main/icons/Hi.gif" width="28px"/>, I'm [Your Name]</h1>
 <h2 align="center">
