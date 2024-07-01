@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi <img src="https://github.com/Gilbrush/Gilbrush/blob/main/icons/Hi.gif" width="28px"/>, I'm Gilbrush</h1>
+<h1 align="center">Hi <img src="https://github.com/Gilbrush/Gilbrush/blob/main/Hi.gif" width="28px"/>, I'm Gilbrush</h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=Gilbrush&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer
